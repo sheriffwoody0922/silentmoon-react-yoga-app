@@ -73,7 +73,7 @@ To run Silentmoon on your local machine, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/AlpayC/Fullstack_Abschlussprojekt_SilentMoon.git
+   git clone https://github.com/sheriffwoody0922/silentmoon-react-yoga-app.git
    ```
 
 2. Navigate to the project directory:
@@ -216,7 +216,8 @@ The Silentmoon app uses the following third-party libraries:
 
 Special thanks to the following contributors for their hard work on this project:
 
-- [Elisaatnam](https://github.com/Elisaatnam) - Frontend Developer & Ui/Ux Designer
+- [SheriffWoody](https://github.com/sheriffwoody0922/) - Senior Frontend Developer
+- [Elisaatnam](https://github.com/Elisaatnam) - Ui/Ux Designer
 - [Lis-art](https://github.com/Lis-art) - Trellomaster & Frontend Developer
 - [mirzakomic](https://github.com/mirzakomic) - CSS Master & Frontend Developer
 - [AlpayC](https://github.com/AlpayC) - Backend Developer & Git Master
